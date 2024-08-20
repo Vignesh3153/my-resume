@@ -1,0 +1,42 @@
+.changes{
+    font-weight: bold;
+    text-align: center;
+    background-color: #C0C78C;
+   
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    scale: 0.05;
+    transition: all 0.5s;
+}
+
+img:hover{
+    scale: 1;;
+}
+
+h1{
+    text-align: center;
+    ;
+}
+#new{
+    background-color: #C0C78C;
+}
+footer{
+    background-color: #C0C78C;
+    text-align: center;
+}
+footer:hover{
+    scale: 1.1;
+}
+figcaption{
+    text-align: center;
+}
+
+.new:hover{
+    scale: 1.1;
+}
